@@ -1,0 +1,31 @@
+.cuadros {
+    border: 1px solid #CCC;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    height: 200px;
+}
+#uno{
+  width: 150px;
+  background-color: aqua;  
+  height: 200%;
+}
+#dos {
+    width: 150px;
+    background-color: rgb(201, 189, 26);  
+    height: 200%;
+  }
+#tres {
+  width: 150px;
+  background-color: rgb(60, 255, 0);  
+  height: 200%;
+}
+#cuatro {
+    width: 150px;
+    background-color: rgb(89, 0, 255);  
+    text-align: center;
+    height: 200%;
+  }

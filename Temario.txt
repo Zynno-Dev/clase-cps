@@ -1,0 +1,34 @@
+1. Definiciones:
+	VSC
+	IDE
+	Manejo de consola
+	Html
+	Css
+		Estilo
+		Regla
+		Medidas
+	Etiqueta
+	Atributo
+	Sitio y Pagina
+	Linkeo Absoluto y Relativo
+
+2. Maquetado:
+	Head
+	Body
+		Span y Div
+	Listas
+	Enlaces
+	Media
+
+3. Estilos:
+	Targeting 
+	Box Modeling
+	Flexbox
+	Position
+	
+4.Extras:
+	Bootstrap
+	Google Fonts
+	Youtube Iframe
+	Fontawesome
+	Extensiones Utiles
